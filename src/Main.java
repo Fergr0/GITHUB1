@@ -4,6 +4,7 @@ import java.sql.SQLOutput;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("HOLA");
+        System.out.println("HOLA QUE PASA");
+        System.out.println("HOLAAAAAAAAAAA");
     }
 }
